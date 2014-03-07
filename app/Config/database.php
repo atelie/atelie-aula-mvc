@@ -66,8 +66,8 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => '',
-		'database' => 'atelie_dev',
+		'password' => 'webgoal',
+		'database' => 'atelieimg',
 		'prefix' => '',
 		'encoding' => 'utf8',
 	);
